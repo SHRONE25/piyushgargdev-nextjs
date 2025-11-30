@@ -32,7 +32,7 @@ const Page = ({ project }) => {
   //           wrapperStyle={{}}
   //           wrapperClass="MagnifyingGlass-wrapper"
   //           glassColor="#c0efff"
-  //           color="#e15b64"
+  //           color="#412a79ff"
   //         >
   //           Loading...
   //         </MagnifyingGlass>
@@ -74,7 +74,7 @@ const Page = ({ project }) => {
           <Col hidden={isMobile} sm="12" lg="6" md="6">
             <div
               style={{
-                background: "#fff",
+                background: "#a072eaff",
                 borderRadius: "10px",
                 height: "100%",
               }}
